@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello! 👋
 
+🦊 This profile is a collection of my projects!
 <!--
 **Cave-8/Cave-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
