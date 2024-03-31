@@ -2,11 +2,11 @@
 
 🦊 This profile is a collection of my projects!<br>
 💻 I'm interested in cybersecurity, language and grammar analysis and algorithms and data structures (but also in web development).<br>
-📚 My favourite languages are C, Rust, Java and Haskell but I also develop in Javascript/HTML/CSS and sometimes in Kotlin.
+📚 My favourite languages are C, Rust, Java and Haskell but I also develop in Javascript/HTML/CSS, Python and sometimes in Kotlin.
 <p align=center>
   <img src="https://skillicons.dev/icons?i=c,rust,java,haskell,python,kotlin,javascript,html,css&theme=light"><br><br>
 </p>
 
 ## Stats
 📊 Some stats (related to my public repositories):<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cave-8&hide=cmake&theme=graywhite&size_weight=0.5&count_weight=0.5)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cave-8&hide=cmake&theme=graywhite&size_weight=0.5&count_weight=0.5&langs_count=10)]()
