@@ -2,7 +2,7 @@
 
 🦊 This profile is a collection of my projects!<br>
 💻 I'm interested in cybersecurity, language and grammar analysis and algorithms and data structures (but also in web development).<br>
-📚 My favourite languages are C, Rust, Java and Haskell but I also develop in Javascript/HTML/CSS, Python and sometimes in Kotlin.
+📚 My favourite languages are C, Rust, Haskell and Python but I also develop in Javascript/HTML/CSS, Java and sometimes in Kotlin.
 <p align=center>
   <img src="https://skillicons.dev/icons?i=c,rust,java,haskell,python,kotlin,javascript,html,css&theme=light"><br><br>
 </p>
