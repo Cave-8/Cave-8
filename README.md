@@ -3,11 +3,11 @@
 🦊 This profile is a collection of my projects!<br>
 💻 I'm interested in cybersecurity, language and grammar analysis and algorithms and data structures (but also in web development).<br>
 📚 My favourite languages are C, Rust, Haskell and Python but I like to experiment in many languages.
-<!--
+
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=c,rust,java,haskell,python,kotlin,javascript,html,css&theme=light"><br><br>
+  <img src="https://skillicons.dev/icons?i=c,rust,haskell,python,java,typescript,javascript,html,css&theme=light"><br><br>
 </p>
--->
+
 
 ## Stats
 📊 Some stats (related to my public repositories):<br><br>
